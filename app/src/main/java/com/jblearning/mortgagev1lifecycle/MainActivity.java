@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
   protected void onStart( ) {
     super.onStart( );
     Log.w( MA, "Inside MainActivity:onStart\n" );
+
   }
 
   protected void onRestart( ) {
